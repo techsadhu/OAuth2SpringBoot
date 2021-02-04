@@ -19,3 +19,5 @@
 /.gradle/buildOutputCleanup/outputFiles.bin
 /.idea/codeStyles/Project.xml
 /.gradle/checksums/sha1-checksums.bin
+/.gradle/
+/.idea/
