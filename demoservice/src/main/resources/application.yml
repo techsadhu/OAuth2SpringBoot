@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: demoservice
+  security:
+    oauth2:
+      client:
+        provider:
+
+server:
+  port: 8081
+
+eureka:
+  client:
+    enabled: true
+
+okta:
+  oauth2:
+    client-id: 0oa2amci5xaQcrWbF357
+    client-secret: Q4td2nLNaZAJIZOcqmgBh-_BdEnC0sbw_a5b84HV
+    issuer: https://dev-770454.okta.com/oauth2/default
